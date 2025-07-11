@@ -1,8 +1,11 @@
 ﻿using System.Text;
+using BaiTap1.BaiTap; // Thêm dòng này để gọi được các bài tập
 
-Console.OutputEncoding = System.Text.Encoding.UTF8;
+Console.OutputEncoding = Encoding.UTF8;
 
-Console.WriteLine("Hello, Git!");
+//==== GỌI BÀI TẬP MUỐN CHẠY TẠI ĐÂY ====
+Bai1_HelloGit.Run();
+//=========================================
 
-Console.WriteLine("\n Nhấn một phím bất kỳ để thoát...");
+Console.WriteLine("\nNhấn phím bất kỳ để thoát...");
 Console.ReadKey();
