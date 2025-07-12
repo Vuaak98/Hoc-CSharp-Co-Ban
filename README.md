@@ -35,3 +35,14 @@
         ```csharp
         // Bai4_IfElse.cs
         ```
+* **1.5: Câu lệnh `if-else if-else` & Git Branch**
+    * **Lý thuyết:**
+        * Dùng để xử lý các trường hợp có nhiều hơn 2 điều kiện.
+        * `git checkout -b <ten-nhanh>`: Tạo và chuyển sang nhánh mới.
+        * `git checkout <ten-nhanh>`: Chuyển qua lại giữa các nhánh.
+        * `git merge <ten-nhanh>`: Gộp thay đổi từ nhánh khác vào nhánh hiện tại.
+        * `git branch -d <ten-nhanh>`: Xóa nhánh (sau khi đã gộp).
+    * **Code thực hành:**
+        ```csharp
+        // Bai5_IfElseIf.cs
+        ```
