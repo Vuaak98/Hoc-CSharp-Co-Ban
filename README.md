@@ -56,3 +56,11 @@
         ```csharp
         // Bai6_SwitchCase.cs
         ```
+* **1.7: Bài tập tổng hợp - Tính chỉ số BMI**
+    * **Lý thuyết:**
+        * Vận dụng kiến thức về biến, nhập liệu, ép kiểu và `if-else if-else`.
+        * Công thức BMI: `Cân nặng (kg) / (Chiều cao (m) * Chiều cao (m))`.
+    * **Code thực hành:**
+        ```csharp
+        // Bai7_BaiTapTongHopBMI.cs
+        ```
