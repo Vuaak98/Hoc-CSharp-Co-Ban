@@ -46,3 +46,13 @@
         ```csharp
         // Bai5_IfElseIf.cs
         ```
+* **1.6: Cấu trúc rẽ nhánh `switch-case`**
+    * **Lý thuyết:**
+        * Dùng để kiểm tra một biến với nhiều giá trị cụ thể. Thường gọn gàng hơn `if-else if` trong trường hợp này.
+        * `case`: Mỗi trường hợp cần kiểm tra.
+        * `break`: Ngắt luồng và thoát khỏi khối `switch`.
+        * `default`: Trường hợp mặc định nếu không có `case` nào khớp.
+    * **Code thực hành:**
+        ```csharp
+        // Bai6_SwitchCase.cs
+        ```
