@@ -64,3 +64,12 @@
         ```csharp
         // Bai7_BaiTapTongHopBMI.cs
         ```
+* **1.8: Bài tập tổng hợp - Giải phương trình bậc hai**
+    * **Lý thuyết:**
+        * Vận dụng toàn bộ kiến thức: biến, nhập liệu, ép kiểu, `if-else if-else`, lớp `Math` và đổi màu Console.
+        * Công thức Delta: `Δ = b² - 4ac`.
+        * Công thức nghiệm: `x = (-b ± √Δ) / 2a`.
+    * **Code thực hành:**
+        ```csharp
+        // Bai8_BaiTapTongHopPTBH.cs
+        ```

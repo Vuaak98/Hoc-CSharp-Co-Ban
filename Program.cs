@@ -10,7 +10,8 @@ Console.OutputEncoding = Encoding.UTF8;
 //Bai4_IfElse.Run();
 //Bai5_IfElseIf.Run();
 //Bai6_SwitchCase.Run();
-Bai7_BaiTapTongHopBMI.Run();
+//Bai7_BaiTapTongHopBMI.Run();
+Bai8_BaiTapTongHopPTBH.Run();
 //=========================================
 
 Console.WriteLine("\nNhấn phím bất kỳ để thoát...");
