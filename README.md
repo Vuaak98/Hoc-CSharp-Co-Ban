@@ -27,3 +27,11 @@
         * **Chia số nguyên:** Khi chia 2 số `int`, kết quả sẽ tự động bị cắt bỏ phần thập phân (ví dụ: `5 / 2` sẽ bằng `2`).
         * **Ép kiểu (Type Casting):** Dùng `(float)` hoặc `(double)` đứng trước một biến số nguyên để tạm thời coi nó là số thực, giúp phép chia cho ra kết quả đúng.
     * **Code thực hành:**
+* **1.4: Câu lệnh điều kiện `if-else`**
+    * **Lý thuyết:**
+        * Dùng để thực thi một khối lệnh nếu điều kiện là đúng (`true`), và một khối lệnh khác nếu điều kiện là sai (`false`).
+        * **Toán tử so sánh:** `==` (bằng), `!=` (khác), `>` (lớn hơn), `<` (nhỏ hơn), `>=` (lớn hơn hoặc bằng), `<=` (nhỏ hơn hoặc bằng).
+    * **Code thực hành:**
+        ```csharp
+        // Bai4_IfElse.cs
+        ```
