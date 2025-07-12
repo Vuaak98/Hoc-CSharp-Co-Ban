@@ -15,7 +15,9 @@ Console.OutputEncoding = Encoding.UTF8;
 //Bai8_BaiTapTongHopPTBH.Run();
 //=========================================
 
-Baitap2.Run();
+Baitap3.Run();
+Baitap3.Run1();
+
 
 Console.WriteLine("\nNhấn phím bất kỳ để thoát...");
 Console.ReadKey();
