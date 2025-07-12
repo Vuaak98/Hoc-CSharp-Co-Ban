@@ -17,7 +17,8 @@ Console.OutputEncoding = Encoding.UTF8;
 
 //Baitap3.Run();
 //Baitap3.Run1();
-Baitap4.bt4Run();
+//Baitap4.bt4Run();
+Baitap8.bt8Run();
 
 
 Console.WriteLine("\nNhấn phím bất kỳ để thoát...");
