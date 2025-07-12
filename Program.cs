@@ -5,7 +5,8 @@ Console.OutputEncoding = Encoding.UTF8;
 
 //==== GỌI BÀI TẬP MUỐN CHẠY TẠI ĐÂY ====
 //Bai1_HelloGit.Run();
-Bai2_BienVaNhapLieu.Run();
+//Bai2_BienVaNhapLieu.Run();
+Bai3_PhepToanVaEpKieu.Run();
 //=========================================
 
 Console.WriteLine("\nNhấn phím bất kỳ để thoát...");

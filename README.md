@@ -21,3 +21,9 @@
             * `int.Parse()`: Chuyển chuỗi thành số nguyên.
             * `float.Parse()`: Chuyển chuỗi thành số thực.
     * **Code thực hành:**
+* **1.3: Phép toán và Ép kiểu**
+    * **Lý thuyết:**
+        * **Toán tử số học:** `+` (cộng), `-` (trừ), `*` (nhân), `/` (chia), `%` (chia lấy dư).
+        * **Chia số nguyên:** Khi chia 2 số `int`, kết quả sẽ tự động bị cắt bỏ phần thập phân (ví dụ: `5 / 2` sẽ bằng `2`).
+        * **Ép kiểu (Type Casting):** Dùng `(float)` hoặc `(double)` đứng trước một biến số nguyên để tạm thời coi nó là số thực, giúp phép chia cho ra kết quả đúng.
+    * **Code thực hành:**
