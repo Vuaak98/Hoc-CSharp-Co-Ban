@@ -1,5 +1,6 @@
 ﻿using System.Text;
-using BaiTap1.BaiTap; // Thêm dòng này để gọi được các bài tập
+//using BaiTap1.BaiTap; // Thêm dòng này để gọi được các bài tập
+using BaiTap1.Bài_1___Phiếu_giao_bài_tập_trên_lớp;
 
 Console.OutputEncoding = Encoding.UTF8;
 
@@ -11,8 +12,10 @@ Console.OutputEncoding = Encoding.UTF8;
 //Bai5_IfElseIf.Run();
 //Bai6_SwitchCase.Run();
 //Bai7_BaiTapTongHopBMI.Run();
-Bai8_BaiTapTongHopPTBH.Run();
+//Bai8_BaiTapTongHopPTBH.Run();
 //=========================================
+
+Baitap1.Run();
 
 Console.WriteLine("\nNhấn phím bất kỳ để thoát...");
 Console.ReadKey();
